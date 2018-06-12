@@ -10,7 +10,7 @@ SCH University Chatbot
 
 
 # 헬퍼스(HelpUs)
-<img src = "images/logo.png" style = "width = auto; height = 300px;"><img>
+<img src = "images/logo.png" style = "width : auto; height : 300px;"><img>
 
 
 ## 제작자
