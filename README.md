@@ -10,8 +10,8 @@ SCH University Chatbot
 
 
 # 헬퍼스(HelpUs)
-<img src = "images/logo.png" style = "width : auto; height : 400px;">
-순천향대학교 창업 동아리 소속<br/>
+<img src = "images/logo2.jpg">
+순천향대학교 창업 동아리 소속<br/><br/>
 
 Developing Team<br/>
 - 김민수(컴퓨터 소프트웨어 공학과 17학번)<br/>
