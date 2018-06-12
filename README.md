@@ -1,16 +1,16 @@
 SCH University Chatbot
 ========================
-순천향대 봇<br/>
+순천향대 봇
 ----------------------
-
+<br/>
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Generic badge](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://shields.io/)
-
+<br/>
 
 # 헬퍼스(HelpUs)
-<img src = "images/logo2.jpg">
+<img src = "images/Logo2.jpg">
 순천향대학교 창업 동아리 소속<br/><br/>
 
 Developing Team<br/>
@@ -20,6 +20,7 @@ Developing Team<br/>
 Design Team<br/>
 - 김두연(디지털 애니메이션 학과 18학번)<br/>
 - 김연수(디지털 애니메이션 학과 18학번)<br/>
+<br/>
 
 
 ## 제작자
@@ -32,23 +33,26 @@ Design Team<br/>
 - [김도현](https://github.com/wookoo)<br/>Soonchunhyang University<br/>Department of Computer Science Engineering<br/>
 [ [Facebook](https://www.facebook.com/profile.php?id=100008326148155) ]
 [ [Github](https://github.com/wookoo) ]<br/>
+<br/>
 
 
 # 개요
 Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 카카오톡 챗봇입니다.<br/>
-[(순천향대학교 학식알리미)](http://pf.kakao.com/_xggCxixl)에서 친구 추가가 가능합니다.<br/>
-순천향대학교 학식알리미는 다음 [문서](https://github.com/plusfriend/auto_reply)를 기반으로 제작되었습니다.<br/>
-
+[(순천향대 봇)](https://pf.kakao.com/_lxmrmC)에서 친구 추가가 가능합니다.<br/>
+순천향대 봇 다음 [문서](https://github.com/plusfriend/auto_reply)를 기반으로 제작되었습니다.<br/>
+<br/>
 
 # 기술
 
 
 ### 언어
 - Python(3.6.5)
+<br/>
 
 
 ### 프레임워크
 - Django(2.0.5)
+<br/>
 
 
 ### 모듈
@@ -70,11 +74,13 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
 - beautifulsoup4(4.6.0)<br/>
 - bs4(0.0.1)<br/>
 - html-sanitizer(1.4.0)
+<br/>
 
 
 ### 서버
 - Raspberry Pi 3b<br/>
 - Ubuntu MATE
+<br/>
 
 
 # 기능
