@@ -11,7 +11,7 @@ SCH University Chatbot
 
 # 헬퍼스(HelpUs)
 순천향대학교 창업 동아리 소속<br/>
-<img src="images/Logo2.jpg" width="50%"></img>
+<img src="images/Logo2.jpg" width="30%"></img>
 
 Developing Team<br/>
 - 김민수(컴퓨터 소프트웨어 공학과 17학번)<br/>
@@ -23,14 +23,14 @@ Design Team<br/>
 <br/>
 
 
-## 제작자
-- [김민수](https://github.com/alstn2468)<br/>Soonchunhyang University<br/>Department of Computer Software Engineering<br/>
+# 제작자
+[김민수](https://github.com/alstn2468)<br/>Soonchunhyang University<br/>Department of Computer Software Engineering<br/>
 [ [Facebook](https://www.facebook.com/profile.php?id=100003769223078) ]
 [ [Github](https://github.com/alstn2468) ]
 [ [LinkedIn](https://www.linkedin.com/in/minsu-kim-336289160/) ]
 [[Webpage](https://kimminsu.ml) ]<br/><br/>
 
-- [김도현](https://github.com/wookoo)<br/>Soonchunhyang University<br/>Department of Computer Science Engineering<br/>
+[김도현](https://github.com/wookoo)<br/>Soonchunhyang University<br/>Department of Computer Science Engineering<br/>
 [ [Facebook](https://www.facebook.com/profile.php?id=100008326148155) ]
 [ [Github](https://github.com/wookoo) ]<br/>
 <br/>
@@ -47,12 +47,10 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
 
 ### 언어
 - Python(3.6.5)
-<br/>
 
 
 ### 프레임워크
 - Django(2.0.5)
-<br/>
 
 
 ### 모듈
@@ -74,14 +72,12 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
 - beautifulsoup4(4.6.0)<br/>
 - bs4(0.0.1)<br/>
 - html-sanitizer(1.4.0)
-<br/>
 
 
 ### 서버
 - Raspberry Pi 3b<br/>
 - Ubuntu MATE
 <br/>
-
 
 # 기능
 
