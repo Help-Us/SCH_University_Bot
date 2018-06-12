@@ -1,5 +1,5 @@
 SCH University Chatbot
-((((((((((((
+=====================
 순천향대 봇
 ----------------------
 <br/>
@@ -72,7 +72,86 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
 
 
 ## 구조
-
+```
+├─ library_screenshot.py
+├─ upload.txt
+│
+└─ SCHChatBot
+   ├─ db.sqlite3
+   ├─ manage.py
+   │
+   ├─ addon
+   │  ├─ asanbus.py
+   │  ├─ calander.py
+   │  ├─ find_book.py
+   │  ├─ student_food.py
+   │  ├─ train.py
+   │  └─ weather_edit.py
+   │
+   ├─ app
+   │  ├─ __init__.py
+   │  ├─ admin.py
+   │  ├─ apps.py
+   │  ├─ models.py
+   │  ├─ tests.py
+   │  ├─ views.py
+   │  ├─ __pycache__
+   │  └─ migrations
+   │
+   ├─ data
+   │  └─ food
+   │      ├─ hyang1
+   │      │   ├─ mon.txt
+   │      │   ├─ tue.txt
+   │      │   ├─ wen.txt
+   │      │   ├─ thu.txt
+   │      │   ├─ fri.txt
+   │      │   ├─ sat.txt
+   │      │   └─ sun.txt
+   │      │
+   │      ├─ hyang2
+   │      │   ├─ mon.txt
+   │      │   ├─ tue.txt
+   │      │   ├─ wen.txt
+   │      │   ├─ thu.txt
+   │      │   ├─ fri.txt
+   │      │   ├─ sat.txt
+   │      │   └─ sun.txt
+   │      │
+   │      ├─ hyang3
+   │      │   ├─ mon.txt
+   │      │   ├─ tue.txt
+   │      │   ├─ wen.txt
+   │      │   ├─ thu.txt
+   │      │   ├─ fri.txt
+   │      │   ├─ sat.txt
+   │      │   └─ sun.txt
+   │      │
+   │      ├─ student
+   │      │   ├─ mon.txt
+   │      │   ├─ tue.txt
+   │      │   ├─ wen.txt
+   │      │   ├─ thu.txt
+   │      │   ├─ fri.txt
+   │      │   ├─ sat.txt
+   │      │   └─ sun.txt
+   │      │
+   │      └─ teacher
+   │          ├─ mon.txt
+   │          ├─ tue.txt
+   │          ├─ wen.txt
+   │          ├─ thu.txt
+   │          ├─ fri.txt
+   │          ├─ sat.txt
+   │          └─ sun.txt
+   │      
+   └─ module
+       ├─ apple.py
+       ├─ buttons.py
+       ├─ message.py
+       ├─ process.py
+       └─ __pycache__
+```
 
 ## 기능
 
