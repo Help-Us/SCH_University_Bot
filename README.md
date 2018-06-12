@@ -74,12 +74,9 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
 ## 구조
 ```
 ├─ library_screenshot.py
-├─ upload.txt
-│
 └─ SCHChatBot
    ├─ db.sqlite3
    ├─ manage.py
-   │
    ├─ addon
    │  ├─ asanbus.py
    │  ├─ calander.py
@@ -87,7 +84,6 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
    │  ├─ student_food.py
    │  ├─ train.py
    │  └─ weather_edit.py
-   │
    ├─ app
    │  ├─ __init__.py
    │  ├─ admin.py
@@ -97,7 +93,6 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
    │  ├─ views.py
    │  ├─ __pycache__
    │  └─ migrations
-   │
    ├─ data
    │  └─ food
    │      ├─ hyang1
@@ -108,7 +103,6 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
    │      │   ├─ fri.txt
    │      │   ├─ sat.txt
    │      │   └─ sun.txt
-   │      │
    │      ├─ hyang2
    │      │   ├─ mon.txt
    │      │   ├─ tue.txt
@@ -117,7 +111,6 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
    │      │   ├─ fri.txt
    │      │   ├─ sat.txt
    │      │   └─ sun.txt
-   │      │
    │      ├─ hyang3
    │      │   ├─ mon.txt
    │      │   ├─ tue.txt
@@ -126,7 +119,6 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
    │      │   ├─ fri.txt
    │      │   ├─ sat.txt
    │      │   └─ sun.txt
-   │      │
    │      ├─ student
    │      │   ├─ mon.txt
    │      │   ├─ tue.txt
@@ -135,7 +127,6 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
    │      │   ├─ fri.txt
    │      │   ├─ sat.txt
    │      │   └─ sun.txt
-   │      │
    │      └─ teacher
    │          ├─ mon.txt
    │          ├─ tue.txt
@@ -144,7 +135,6 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
    │          ├─ fri.txt
    │          ├─ sat.txt
    │          └─ sun.txt
-   │      
    └─ module
        ├─ apple.py
        ├─ buttons.py
