@@ -2,12 +2,11 @@ SCH University Chatbot
 =====================
 순천향대 봇
 ----------------------
-<br/>
+
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Generic badge](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://shields.io/)
-<br/>
 
 ## 헬퍼스(HelpUs)
 순천향대학교 창업 동아리 소속<br/>
@@ -20,7 +19,6 @@ Developing Team<br/>
 Design Team<br/>
 - 김두연(디지털 애니메이션 학과 18학번)<br/>
 - 김연수(디지털 애니메이션 학과 18학번)<br/>
-<br/>
 
 
 ## 제작자
@@ -33,14 +31,12 @@ Design Team<br/>
 [김도현](https://github.com/wookoo)<br/>Soonchunhyang University<br/>Department of Computer Science Engineering<br/>
 [ [Facebook](https://www.facebook.com/profile.php?id=100008326148155) ]
 [ [Github](https://github.com/wookoo) ]<br/>
-<br/>
 
 
 ## 개요
 Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 카카오톡 챗봇입니다.<br/>
 [(순천향대 봇)](https://pf.kakao.com/_lxmrmC)에서 친구 추가가 가능합니다.<br/>
 순천향대 봇 다음 [문서](https://github.com/plusfriend/auto_reply)를 기반으로 제작되었습니다.<br/>
-<br/>
 
 ## 기술
 
@@ -68,7 +64,6 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
 ### 서버
 - Raspberry Pi 3b<br/>
 - Ubuntu MATE
-<br/>
 
 
 ## 폴더 구조
@@ -108,9 +103,54 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
        └─ __pycache__
 ```
 
+
 ## 기능
+
+
+### 학식
+- 월 ~ 토 요일별 `당일` 학식 메뉴 확인 가능<br/>
+- 조식, 중식, 석식 학번에 확인 가능<br/>
+- 학식이 없는 경우도 표시<br/>
+- 식당 이용 가능 시간 확인 가능<br/>
+- `일부` 식당 학식 가격 확인 가능<br/>
+
+
+### 도서관
+- 도서관 도서 검색 가능<br/>
+- 열람실 좌석 확인 가능<br/>
+- 도서관 이용 정보 확인 가능<br/>
+
+
+### 교통
+- 학교 주변 시내버스 정보 확인 가능<br/>
+- 순천향대학교 -> 신창역 셔틀 버스 정보 확인 가능<br/>
+- 신창역 지하철 출발 시간 확인 가능<br/>
+- 신창 택시 연락처 정보 확인 가능<br/>
+- 신창 시외버스 터미널 정보 확인 가능<br/>
+
+
+### 날씨
+- 신창면 날씨 확인 가능<br/>
+- 현재 날씨, 현재 기온, 최고 기온, 최저 기온<br/>오존, 미세먼지, 초미세먼지, 아황산 가스, 일산화탄소, 이산화탄소 정보 확인 가능<br/>
+
+
+### WI-FI
+- 교내 화이파이 사용 정보 확인 가능
+
+
+### 순천향대 건물
+- 학교 지도 확인 가능<br/>
+- 학교 건물 번호 확인 가능<br/>
+- 교내 편의 시설 확인 가능<br/>
+
+
+### 보건실
+- 보건실 위치, 이용 가능 시간 확인 가능<br/>
+- 체성분 측정 가능 시간 확인 가능<br/>
 
 
 ## 버전
 2018/05/13<br/>
 - Version (1.0.0) Released<br/>
+
+## 친구 추가 방법
