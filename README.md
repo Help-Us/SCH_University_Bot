@@ -10,7 +10,7 @@ SCH University Chatbot
 <br/>
 
 # 헬퍼스(HelpUs)
-<img src = "images/Logo2.jpg">
+<img src = "images/Logo2.jpg" style="width:300px; height:300px;">
 순천향대학교 창업 동아리 소속<br/><br/>
 
 Developing Team<br/>
