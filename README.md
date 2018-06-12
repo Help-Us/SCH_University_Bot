@@ -71,7 +71,7 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
 <br/>
 
 
-## 구조
+## 폴더 구조
 ```
 ├─ library_screenshot.py
 └─ SCHChatBot
