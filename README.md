@@ -96,45 +96,10 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
    ├─ data
    │  └─ food
    │      ├─ hyang1
-   │      │   ├─ mon.txt
-   │      │   ├─ tue.txt
-   │      │   ├─ wen.txt
-   │      │   ├─ thu.txt
-   │      │   ├─ fri.txt
-   │      │   ├─ sat.txt
-   │      │   └─ sun.txt
    │      ├─ hyang2
-   │      │   ├─ mon.txt
-   │      │   ├─ tue.txt
-   │      │   ├─ wen.txt
-   │      │   ├─ thu.txt
-   │      │   ├─ fri.txt
-   │      │   ├─ sat.txt
-   │      │   └─ sun.txt
    │      ├─ hyang3
-   │      │   ├─ mon.txt
-   │      │   ├─ tue.txt
-   │      │   ├─ wen.txt
-   │      │   ├─ thu.txt
-   │      │   ├─ fri.txt
-   │      │   ├─ sat.txt
-   │      │   └─ sun.txt
    │      ├─ student
-   │      │   ├─ mon.txt
-   │      │   ├─ tue.txt
-   │      │   ├─ wen.txt
-   │      │   ├─ thu.txt
-   │      │   ├─ fri.txt
-   │      │   ├─ sat.txt
-   │      │   └─ sun.txt
    │      └─ teacher
-   │          ├─ mon.txt
-   │          ├─ tue.txt
-   │          ├─ wen.txt
-   │          ├─ thu.txt
-   │          ├─ fri.txt
-   │          ├─ sat.txt
-   │          └─ sun.txt
    └─ module
        ├─ apple.py
        ├─ buttons.py
