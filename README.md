@@ -157,4 +157,9 @@ Python과 Django 웹 프레임워크를 사용하여 제작한 자동 응답형 
 2018/05/13<br/>
 - Version (1.0.0) Released<br/>
 
+2018/06/12<br/>
+- Version (2.0.0) Update<br/>
+- 영어 버전 추가
+
+
 ## 친구 추가 방법
