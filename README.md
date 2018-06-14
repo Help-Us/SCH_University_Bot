@@ -6,7 +6,7 @@ SCH University Chatbot
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Version badge](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://shields.io/)
+[![Version badge](https://img.shields.io/badge/Version-2.0.0-green.svg)](https://shields.io/)
 [![Add Friend badge](https://img.shields.io/badge/Add-Friend-ffff00.svg)](https://pf.kakao.com/_lxmrmC)
 
 
