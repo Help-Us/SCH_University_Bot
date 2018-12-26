@@ -28,7 +28,7 @@ Design Team<br/>
 [ [Facebook](https://www.facebook.com/profile.php?id=100003769223078) ]
 [ [Github](https://github.com/alstn2468) ]
 [ [LinkedIn](https://www.linkedin.com/in/minsu-kim-336289160/) ]
-[[Webpage](https://kimminsu.ml) ]<br/><br/>
+[[Blog](alstn2468.github.io) ]<br/><br/>
 
 [김도현](https://github.com/wookoo)<br/>Soonchunhyang University<br/>Department of Computer Science Engineering<br/>
 [ [Facebook](https://www.facebook.com/profile.php?id=100008326148155) ]
